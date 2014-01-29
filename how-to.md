@@ -3,9 +3,9 @@ Email Signature
 
 ### Informational Resources
 
-- http://mydesignpad.com/create-a-html-email-signature-for-mac-os-x-mountain-lion-10-8/
+- Mac: http://mydesignpad.com/create-a-html-email-signature-for-mac-os-x-mountain-lion-10-8/
 
-### How to Mac
+### How to: Mac
 1. Open "Mac Mail"
 2. Click preferences
 3. Click signatures
