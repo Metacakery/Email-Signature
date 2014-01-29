@@ -9,7 +9,11 @@ Email Signature
 1. Open "Mac Mail"
 2. Click preferences
 3. Click signatures
-4. Click the + to add a new signature. This step is simply to allow mac mail to create a new signature document that you will later edit directly. (Note: Leave the signature open through out the rest of these step so that you will not need to navigate to it later. Even if you quick Mail, as you will in later steps, leave the window open. Mail will restart with the signature still open.)
+4. Click the + to add a new signature. 
+
+This step is simply to allow mac mail to create a new signature document that you will later edit directly.  
+_**Note:** Leave the signature open through out the rest of these step so that you will not need to navigate to it later. Even if you quick Mail, as you will in later steps, leave the window open. Mail will restart with the signature still open._
+
 5. Click back to the desktop finder
 6. From finder option+click "Go" from finder menu bar, _the bar that is at the top of your screen. You must continue to hold option even after you have clicked "Go". This will open a hidden folder were you fill find the new signature document that was create earlier.
 7. Click "Library". This will open a new finder window pointed at the hidden library folder.
