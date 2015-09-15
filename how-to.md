@@ -18,9 +18,9 @@ Email Signature
 10. Set the finder window to order by "Date Modified". This will allow you to see the signature you just created as it should jump to the top of the list as the most recently modified file. The new signature document name is going to be a ridiculously none-readable name. Viewing by "Date Modified" is the easiest way to be sure you are viewing the file that Mac Mail just created.
 11. Open the signature document to copy past the new html in place of current html. 
 12. Open the file you received that contains the new html signature.
-13 Copy the new html into your clipboard by selecting all and copy.
+13. Copy the new html into your clipboard by selecting all and copy.
 14. Select the new signature document and select the existing html. Be sure you only select the html and not the text that is above it. Place the cursor at the beginning of the body tag.
-15 Paste the new html in place of the existing html.
+15. Paste the new html in place of the existing html.
 16. Save the file.
 17. Restart Mac Mail. _You should still have the signature dialog window open, please leave it open when your quit Mail because it will re-open itself when you restart the application.
 18. Go to the signature you created in the previous step and the new html will be visible.
